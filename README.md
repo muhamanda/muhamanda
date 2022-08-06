@@ -23,6 +23,7 @@
 -->
 * <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="15" height="15"/> Python </a>
 * <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15"/> Tensorflow </a>
+* <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="15" height="15"/> Jupyter Notebook </a>
 * <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Eo_circle_blue_white_letter-r.svg" alt="R" width="15" height="15"/> R </a>
 
 <!--
