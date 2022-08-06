@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{muhamanda}/count.svg)
 
 
-## Languages and Tools 
+## 🛠️ Languages and Tools 
 <!--
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Eo_circle_blue_white_letter-r.svg"></code>
@@ -29,6 +29,10 @@
 * 💳 Credit Card Fraud Detection
 * 🕵️ Crowd Detection using Mask-RCNN
 -->
+
+## 📈 Github Stats
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamanda&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamanda&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Amanda' Most Used Language">
+| ------------- | ------------- |  
 
 ## 🔍 You Can Find Me at
 
