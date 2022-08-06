@@ -1,3 +1,9 @@
+<!-- ## 👁‍🗨 Visitors Count -->
+
+![](https://komarev.com/ghpvc/?username=muhamanda&style=for-the-badge) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muh_amanda/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukaspurbaw@gmail.com)
+
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Amanda 🧑🏻
 
 <p align="justify">
@@ -5,9 +11,9 @@
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
-
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/{muhamanda}/count.svg)
-
+-->
 
 ## 🛠️ Languages and Tools 
 <!--
@@ -34,6 +40,8 @@
 | <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhamanda&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="Lukas' GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhamanda&langs_count=8&layout=compact&hide_border=true&theme=radical" alt="Amanda' Most Used Language">
 | ------------- | ------------- |  
 
+
+<!--
 ## 🔍 You Can Find Me at
 
 <p>
@@ -41,6 +49,7 @@
   <a href="mailto:muhammadamanda263@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://wa.me/6282297097279" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>
+-->
 
 <!--
 **muhamanda/muhamanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
